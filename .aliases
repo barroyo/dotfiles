@@ -1,0 +1,4 @@
+alias gits="git status"
+alias gits="git status"
+alias gitl="git log --oneline"
+
